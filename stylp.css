@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(217, 214, 214);
+  }
+  
+  .resume {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    margin-bottom: 10px;
+    color: #008080;
+  }
+  
+  .section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #555;
+  }
+  
+  .section ul li {
+    margin-bottom: 5px;
+  }
+  
+  .profile-photo img {
+    width: 150px;
+    height: 150x;
+    border-radius: 49%;
+    border: 4px solid #006b80; 
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid #008080;
+    margin: 10px 0;
+  }
+  
+  .vertical-line {
+    border-left: 2px solid #008080;
+    height: 100px;
+    margin: 0 20px;
+  }
+  .section img {
+    width:70px;
+    height:70px;
+
+  }
+  .images img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+
+  }
+  .section image{
+    width:70px;
+    height:70px;
+
+
+  }
